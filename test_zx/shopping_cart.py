@@ -10,7 +10,7 @@ commodity_list = [
 money = raw_input("请输入你的账户余额[退出：q]：")
 goods_purchased = []
 
-
+#斤斤计较
 
 
 #判断输入的是否为数字
